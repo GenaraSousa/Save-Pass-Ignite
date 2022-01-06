@@ -10,4 +10,4 @@ Aplicativo mobile para gerencia de senhas desenvolvido como desafio para o curso
 - React native async storage
 
 # Interrface
-<img src="https://raw.githubusercontent.com/GenaraSousa/Save-Pass-Ignite/main/assets/images/save-pass-1.png" style="height: 600px; width:200px;"/>
+<img src="https://raw.githubusercontent.com/GenaraSousa/Save-Pass-Ignite/main/assets/images/save-pass-1.png" style="height: 960px; width:540px;"/>
